@@ -3,6 +3,8 @@ reciba como parámetro 3 valores enteros, día, mes, anio y retorne la fecha de 
 date correspondiente.
 En la clase Principal creada en el punto anterior haga uso de la función getFechaDate."""
 
+#antes de iniciar el programa, configurar en cmd "pip install num2words"
+
 
 from num2words import num2words
 from datetime import datetime, date
